@@ -1,0 +1,4 @@
+# .gitignore file
+
+# Exclude the Google service account JSON key file
+google-key.json
